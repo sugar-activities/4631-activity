@@ -1,0 +1,6 @@
+[Activity]
+name = Wikipedia PT
+activity_version = 35
+bundle_id = org.laptop.WikipediaPTActivity
+icon = activity-wikipedia-pt
+exec = sugar-activity activity_pt.WikipediaActivityPT
